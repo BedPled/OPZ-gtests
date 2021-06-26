@@ -6,7 +6,6 @@ set(CMAKE_DEPENDS_LANGUAGES
 set(CMAKE_DEPENDS_CHECK_CXX
   "/cygdrive/c/Users/BedTed/CLionProjects/OPZ/lib.cpp" "/cygdrive/c/Users/BedTed/CLionProjects/OPZ/cmake-build-debug/CMakeFiles/OPZ.dir/lib.cpp.o"
   "/cygdrive/c/Users/BedTed/CLionProjects/OPZ/main.cpp" "/cygdrive/c/Users/BedTed/CLionProjects/OPZ/cmake-build-debug/CMakeFiles/OPZ.dir/main.cpp.o"
-  "/cygdrive/c/Users/BedTed/CLionProjects/OPZ/tests.cpp" "/cygdrive/c/Users/BedTed/CLionProjects/OPZ/cmake-build-debug/CMakeFiles/OPZ.dir/tests.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 

@@ -1,7 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/OPZ.dir/lib.cpp.o"
   "CMakeFiles/OPZ.dir/main.cpp.o"
-  "CMakeFiles/OPZ.dir/tests.cpp.o"
   "OPZ.exe"
   "OPZ.pdb"
   "libOPZ.dll.a"

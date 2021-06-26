@@ -370,6 +370,14 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/cygdrive/c/Users/BedTed/CLionProjects/OPZ/Operation.h">
+			<Option target="tests"/>
+			<Option target="OPZ"/>
+		</Unit>
+		<Unit filename="/cygdrive/c/Users/BedTed/CLionProjects/OPZ/Opz.h">
+			<Option target="tests"/>
+			<Option target="OPZ"/>
+		</Unit>
 		<Unit filename="/cygdrive/c/Users/BedTed/CLionProjects/OPZ/googletest/googlemock/src/gmock-all.cc">
 			<Option target="gmock"/>
 		</Unit>
@@ -387,6 +395,7 @@
 			<Option target="OPZ"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/BedTed/CLionProjects/OPZ/lib.h">
+			<Option target="tests"/>
 			<Option target="OPZ"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/BedTed/CLionProjects/OPZ/main.cpp">
@@ -394,7 +403,6 @@
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/BedTed/CLionProjects/OPZ/tests.cpp">
 			<Option target="tests"/>
-			<Option target="OPZ"/>
 		</Unit>
 		<Unit filename="/cygdrive/c/Users/BedTed/CLionProjects/OPZ/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>

@@ -18,9 +18,9 @@ add_subdirectory(googletest)
 
 include_directories(googletest/googletest/include)
 
-set(SOURCE_FILES lib.cpp)
+set(SOURCE_FILES lib.cpp Operation.h Opz.h)
 
-add_executable(OPZ main.cpp lib.h lib.cpp tests.cpp)
+add_executable(OPZ main.cpp ${SOURCE_FILES})
 add_executable(tests tests.cpp ${SOURCE_FILES})
 
 
